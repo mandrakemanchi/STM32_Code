@@ -1,0 +1,10 @@
+../Drivers/CMSIS/Include/core_cm7.h:1896:22:__NVIC_EnableIRQ	16	static
+../Drivers/CMSIS/Include/core_cm7.h:2024:22:__NVIC_SetPriority	16	static
+C:/Users/roja/Desktop/RTOS Udemy/STM32F767ZI/Workspace/RTOS Workspace/Common/Third party/SEGGER/rec/segger_uart.c:110:13:_StartSysView	16	static
+C:/Users/roja/Desktop/RTOS Udemy/STM32F767ZI/Workspace/RTOS Workspace/Common/Third party/SEGGER/rec/segger_uart.c:119:13:_cbOnUARTRx	16	static
+C:/Users/roja/Desktop/RTOS Udemy/STM32F767ZI/Workspace/RTOS Workspace/Common/Third party/SEGGER/rec/segger_uart.c:130:12:_cbOnUARTTx	24	static
+C:/Users/roja/Desktop/RTOS Udemy/STM32F767ZI/Workspace/RTOS Workspace/Common/Third party/SEGGER/rec/segger_uart.c:147:6:SEGGER_UART_init	16	static
+C:/Users/roja/Desktop/RTOS Udemy/STM32F767ZI/Workspace/RTOS Workspace/Common/Third party/SEGGER/rec/segger_uart.c:157:6:HIF_UART_WaitForTxEnd	4	static
+C:/Users/roja/Desktop/RTOS Udemy/STM32F767ZI/Workspace/RTOS Workspace/Common/Third party/SEGGER/rec/segger_uart.c:178:6:USART2_IRQHandler	24	static
+C:/Users/roja/Desktop/RTOS Udemy/STM32F767ZI/Workspace/RTOS Workspace/Common/Third party/SEGGER/rec/segger_uart.c:216:6:HIF_UART_EnableTXEInterrupt	4	static
+C:/Users/roja/Desktop/RTOS Udemy/STM32F767ZI/Workspace/RTOS Workspace/Common/Third party/SEGGER/rec/segger_uart.c:226:6:HIF_UART_Init	32	static
